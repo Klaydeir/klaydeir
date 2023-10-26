@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Kadir Kartakgül</h1>
 <h3 align="center">A passionate Web3 - AI developer from Turkey</h3>
 
-- 💬 Ask me about **Blockchain - AI**
+- 💬 Ask me about **Blockchain - AI - Photoshop**
 
-- 📫 How to reach me **hkadir427@gmail.com**
+- 📫 How to reach me **kadirkartakgul@terragog.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
